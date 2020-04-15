@@ -1,0 +1,2 @@
+''PaymentID'',''ProjectID'',''PaymentAmount'',''PaymentDate'',''EndDate'',''CreditCardNumber'',''CardHoldersName'',''CreditCardExpiryDate'',''PaymentMethodID'',''PaymentDue''
+''3'',''3'',''30000'',''2019-09-26 00:00:00'',''2019-09-18 00:00:00'',''555394'',''Zee yahya'',''2022-04-01 00:00:00'',''2'',''20000''
